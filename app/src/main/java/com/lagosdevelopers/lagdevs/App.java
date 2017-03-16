@@ -16,6 +16,8 @@ public class App extends Application {
 
     private static App sInstance;
     private static Context sContext;
+    //Your token goes here
+    public static String TOKEN = "";
 
 
     @Override
